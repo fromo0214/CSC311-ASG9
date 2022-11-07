@@ -15,7 +15,7 @@
       "setup": "ant build",
       "run": "ant MyHashMapTest",
       "input": "",
-      "output": "[junit] Tests run: 1, Failures: 0, Errors: 0",
+      "output": "[junit] Tests run: 11, Failures: 0, Errors: 0",
       "comparison": "included",
       "timeout": 10,
       "points": 50
